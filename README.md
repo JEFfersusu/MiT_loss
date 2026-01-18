@@ -2,6 +2,7 @@
 **Official PyTorch implementation of "MiT Loss: Medical Image-aware Transfer-calibrated Loss for Enhanced Classification"**.
 
 MiT Loss is an upgraded version that combines "constraint-driven, self-calibration, and data loop closure". MiT Loss generalizes [TET Loss](https://github.com/JEFfersusu/TET_loss/tree/main) by introducing data-driven temperature calibration and dual-averaged entropy constraints, enabling adaptive uncertainty alignment with empirical label entropy during training.
+Building on these ideas, [CCT-EAL](https://github.com/JEFfersusu/CCT-EAL) further extends entropy-based calibration by learning class-conditional temperatures and aligning predictive entropy to an EMA-estimated label distribution, improving robustness under class imbalance and limited training budgets.
 
 This study is published by the _Measurement Science and Technology_: https://iopscience.iop.org/article/10.1088/1361-6501/ae08d8/meta.
 
