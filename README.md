@@ -22,6 +22,8 @@ The full article can be freely downloaded from the ResearchGate website: https:/
 
 </div>
 
+**Note: TET Loss, MiT Loss, and CCT-EAL were introduced across different publications due to practical constraints and evolving research focus. Although they were not evaluated in a single unified study, all three methods have been independently published. We plan to further consolidate and refine this line of work in future research.**
+
 ## Citation
 If you think that our work is useful to your research, please cite using this BibTeX😊:
 ```bibtex
